@@ -6,6 +6,8 @@
 
 **FastBuilder Cloud 官方购买渠道仅限于 @BuShe (QQ:32348197) @ADE团队 (QQ: 1216537853) @CAIMEO(QQ: ?)**
 
+(如下列表格显示异常或不完整请 [点击此处](price_fix.html) )
+
 | 方案名称/特性               | FastBuilder Cloud 入门 | FastBuilder Cloud Pro           | FastBuilder Cloud 高级版     | BuShe FastBuilder Server 创造者  |
 | --------------------------- | ---------------------- | ------------------------------- | ---------------------------- | -------------------------------- |
 | 开发语言                    | JS                     | Golang / JS                     | Golang / JS                  | Golang / JS / C++                |
