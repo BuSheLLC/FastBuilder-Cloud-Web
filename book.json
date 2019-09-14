@@ -1,0 +1,12 @@
+{
+ "title":"FastBuilder Cloud",
+ "author":"BuShe",
+ "language":"zh-hans",
+ "description":"FastBuilder Cloud 官方文档",
+ "plugins":[
+          "code", 
+          "-lunr", 
+          "-search", 
+          "search-pro" 
+		  ]
+}
