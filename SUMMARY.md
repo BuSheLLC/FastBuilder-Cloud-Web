@@ -2,4 +2,4 @@
 
 * [Introduction](README.md)
 
-- [Price](PRICE.md)
+* [Price](PRICE.md)
